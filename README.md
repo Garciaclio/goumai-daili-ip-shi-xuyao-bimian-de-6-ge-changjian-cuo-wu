@@ -1,6 +1,6 @@
 # 购买代理 IP 时需要避免的 6 个常见错误
 
-<a href='https://postimg.cc/Xrq90SKF' target='_blank'><img src='https://i.postimg.cc/Xrq90SKF/0-Xfb5l-Igahv-HAZvno.webp' border='0' alt='0-Xfb5l-Igahv-HAZvno'></a>
+<a href='https://postimg.cc/qz5zytnd' target='_blank'><img src='https://i.postimg.cc/qz5zytnd/6458e976653bbdf95646684d-proxy-for-seo.jpg' border='0' alt='6458e976653bbdf95646684d-proxy-for-seo'></a>
 
 说实话，如果你做的是账号养号、跨国广告投放或市场数据采集这类工作，Proxy 就是整个系统的“血液”。没有稳定的代理，系统就会崩，账号掉、工具出错、效率下降。可问题是，并不是有 Proxy 就能搞定。很多人（包括有经验的）依然在选购时犯错，花了钱却得不到理想效果。
 
